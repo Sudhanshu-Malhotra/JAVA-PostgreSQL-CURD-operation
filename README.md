@@ -10,9 +10,9 @@
 1. Install PostgreSQL
 2. Import `db/init.sql` into PostgreSQL
 3. Configure `config.properties`
-4. Compile and run using Maven/Gradle
+
 
 ## Requirements
 - Java 8+
 - PostgreSQL
-- Maven / Gradle
+
